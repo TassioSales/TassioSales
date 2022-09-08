@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Ciência de dados e inteligência artificial
 - 🤓 Estudando, Python e SaS
-- 📚 Cursando o 5º semestre de Ciência de dados e inteligência artificial
+- 📚 Cursando o 7º semestre de Ciência de dados e inteligência artificial
 - 🏫 Faculdade: Instituto de Educação Superior de Brasília (IESB)
 - 📞 contate-me no email: tassiolucian.ljs@gmail.com
 - 😁 pronouns: ele/dele
