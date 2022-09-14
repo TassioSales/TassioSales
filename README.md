@@ -21,7 +21,7 @@
   <img align="center" alt="TS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TS-pandas" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg">
-  <img align="center" alt="TS-SLQ" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg">
+  <img align="center" alt="TS-SLQ" height="60" width="40" src="http://idcodex.id3design.com.br/wp-content/uploads/2014/03/mysql.png">
   <img align="right" alt="tassio-yoda" height="120" width="150" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n9upddq0gzr2kl73lsmwmcr36uj0i0vg16pqt11e&rid=giphy.gif&ct=g">
 </div>
   
