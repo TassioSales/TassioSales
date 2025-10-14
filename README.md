@@ -81,11 +81,11 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 <hr style="width: 60%; border: 1px solid #ccc;">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="150" alt="Gráfico de estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&theme=radical&locale=pt-br" height="150" alt="Gráfico de linguagens mais usadas" />
-  <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=radical" height="150" alt="Gráfico de streak de commits" />
-  <img src="https://github-profile-trophy.vercel.app?username=TassioSales&theme=radical&row=1&margin-w=8" height="150" alt="Troféus de conquistas GitHub" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TassioSales&theme=radical&area=true" height="300" alt="Gráfico de atividade do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=redical&locale=pt-br" height="150" alt="Gráfico de estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&theme=redical&locale=pt-br" height="150" alt="Gráfico de linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=redical" height="150" alt="Gráfico de streak de commits" />
+  <img src="https://github-profile-trophy.vercel.app?username=TassioSales&theme=redical&row=1&margin-w=8" height="150" alt="Troféus de conquistas GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TassioSales&theme=redical&area=true" height="300" alt="Gráfico de atividade do GitHub" />
 </div>
 
 <br><br>
