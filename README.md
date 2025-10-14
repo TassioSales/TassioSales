@@ -10,21 +10,21 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Python Coding Animation" />
+  <img height="210" src="https://media.giphy.com/media/l0HlBOvX6pzkaEQ2I/giphy.gif" alt="Data Science Animation" />
 </div>
 
 ###
 
 <div align="left">
-  <p>Profissional com formação em Big Data e Inteligência Analítica (cursando o último semestre) e sólida base em Ciência de Dados e Inteligência Artificial. Atuação prática em desenvolvimento de sistemas, automação de processos, integração de dados e análises preditivas aplicadas à tomada de decisão. Experiência em ambientes públicos e privados, com foco em transformar dados complexos em soluções estratégicas. Domínio avançado em Python, SQL, SAS (RTDM, ID, Guide) e Power BI. Perfil analítico, orientado a resultados e especializado em gerar eficiência operacional e inteligência de negócios a partir de dados.</p>
+  <p>Profissional com formação em Big Data e Inteligência Analítica (concluindo em dezembro/2025) e sólida base em Ciência de Dados e Inteligência Artificial. Atuação prática em desenvolvimento de sistemas, automação de processos, integração de dados e análises preditivas aplicadas à tomada de decisão. Experiência em ambientes públicos e privados, com foco em transformar dados complexos em soluções estratégicas. Domínio avançado em Python, SQL, SAS (RTDM, ID, Guide) e Power BI. Perfil analítico, orientado a resultados e especializado em gerar eficiência operacional e inteligência de negócios a partir de dados.</p>
 
-  <p><strong>🔭 O que eu construo no dia a dia:</strong> Meu trabalho é ser um tradutor: transformo problemas de negócio em código. Isso vai desde criar automações que realmente agilizam a entrega de dados, até otimizar queries SQL para que relatórios importantes não demorem uma eternidade para chegar. Gosto de ir de ponta a ponta: crio as APIs com Flask e FastAPI e depois transformo a "bagunça" dos dados em dashboards claros no Power BI que qualquer gestor consegue entender.</p>
+  <p><strong>🔭 O que eu construo no dia a dia:</strong> Trabalhando como analista de dados, possuo um leque vasto de habilidades em diferentes tecnologias de análise e Business Intelligence. Minha paixão é criar soluções que automatizam tarefas convergentes e demandas valiosas e úteis, sem comprometer a qualidade. Isso vai desde automações em Python para integração de fontes diversas, até dashboards interativos em Power BI que oferecem visões claras dos principais KPIs para gestores.</p>
 
-  <p><strong>🧠 Minhas ferramentas preferidas:</strong> Sou movido pela curiosidade. Tenho um conhecimento profundo do ecossistema SAS, usando o RTDM para criar sistemas que ajudam a tomar decisões na hora e o ID para fazer análises preditivas que ajudam a usar os recursos de forma mais inteligente. Ao mesmo tempo, estou sempre de olho no futuro, fuçando em IA Generativa para descobrir novas formas de resolver velhos problemas.</p>
+  <p><strong>🧠 Minhas ferramentas preferidas:</strong> Sou movido pela curiosidade. Tenho um conhecimento profundo do ecossistema SAS, usando o RTDM para desenvolver sistemas de tomada de decisão em tempo real que dão suporte a estratégias empresariais, e o ID para efetuar análises preditivas com o objetivo de otimizar a utilização de recursos. Ao mesmo tempo, estou sempre de olho no futuro, explorando IA Generativa e frameworks como Scikit-learn e TensorFlow para resolver problemas complexos.</p>
 
-  <p><strong>🎓 Minha base:</strong> Minha bagagem vem de uma formação dupla em Big Data e Ciência de Dados e IA pelo IESB. Acredito que a faculdade te dá as ferramentas; o mercado te ensina a construir de verdade.</p>
+  <p><strong>🎓 Minha base:</strong> Minha bagagem vem de uma formação dupla em Big Data e Ciência de Dados e IA pelo IESB, com ênfase em projetos práticos, hackathons e imersão desde os primeiros semestres. Acredito que a faculdade te dá as ferramentas; o mercado te ensina a construir de verdade.</p>
 
-  <p><strong>💡 Bora trocar uma ideia?</strong> Se você também curte automação, web scraping ou quer debater sobre o desafio de transformar dados em produtos que geram valor, me chama!</p>
+  <p><strong>💡 Bora trocar uma ideia?</strong> Se você também curte automação, web scraping, governança de dados ou quer debater sobre o desafio de transformar dados em produtos que geram valor, me chama! Aberto a oportunidades no setor público e privado.</p>
 </div>
 
 <div align="center">
@@ -71,14 +71,15 @@
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white" />
 </div>
 
-#### 📜 Certificações
+#### 📜 Certificações & Idiomas
 <div align="center">
-  <img src="https://img.shields.io/badge/SAS_Real-Time_Decision_Manager-blue?style=for-the-badge&logo=sas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inteligência_Artificial-green?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitação_Governança_Dados-orange?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS_RTDM-blue?style=for-the-badge&logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA_Fundamentals-green?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Governança_Dados-orange?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Linguagem_Programação_Python-purple?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum_Agilidade-yellow?style=for-the-badge&logo=agilealliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Programming-purple?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum_Agile-yellow?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inglês-Elementary-lightblue?style=for-the-badge&logo=language&logoColor=white" />
 </div>
 
 ###
@@ -130,21 +131,22 @@
 #### 🎓 IESB - Centro Universitário de Brasília
 **Bacharelado em Ciência de Dados e Inteligência Artificial**  
 <em>2019 - 2023</em>  
-- Curso pioneiro no Brasil, alinha base sólida em matemática, estatística, programação e análise de grandes volumes de dados à aplicação de algoritmos de IA para inovação e automação.  
-- Foco em Data Science, Machine Learning, Big Data e Inteligência Analítica, com projetos integradores e imersão prática.  
+- Curso pioneiro no Brasil, que alia base sólida em matemática, estatística, programação e análise de grandes volumes de dados à aplicação de algoritmos de IA visando inovação tecnológica e automação.  
+- Formação voltada para resolução de problemas complexos por meio de Data Science, Machine Learning, Big Data e Inteligência Analítica, com projetos integradores e imersão prática desde os primeiros semestres.  
+- Ênfase na cadeia de Ciência de Dados: coleta, modelagem, análise exploratória, visualização e aplicação de algoritmos (ML/IA) em dados estruturados e não estruturados.  
 
 **Tecnólogo em Big Data e Inteligência Analítica (EAD)**  
-<em>2023 - 2025</em>  
-- Base técnica em estatística, mineração de dados, ML e frameworks preditivos.  
-- Treinamento em Big Data (Apache Spark, Hadoop, AWS), desenvolvimento com Python, R, SAS, SQL, Power BI e bibliotecas como Scikit-learn, TensorFlow, Pandas e Seaborn.  
-- Projetos em hackathons e estudos de caso para inteligência de negócios e automação.  
+<em>2023 - 2025 (Previsão de conclusão: Dezembro/2025)</em>  
+- Sólida base técnica em estatística, mineração de dados, algoritmos de Machine Learning e frameworks de análise preditiva.  
+- Treinamento em ambientes de Big Data e computação em nuvem (Apache Spark, Hadoop, AWS), integrando dados de grandes volumes para geração de inteligência analítica.  
+- Desenvolvimento prático com Python, R, SAS, SQL, Power BI e bibliotecas como Scikit-learn, TensorFlow, Pandas e Seaborn; participação em hackathons e estudos de caso para inteligência de negócios, dashboards interativos e automação inteligente.  
 
 ###
 
 <h2 align="center">📫 Vamos Conversar!</h2>
 
 <div align="center">
-  <p>Estou sempre aberto a novas oportunidades e colaborações. Vamos bater um papo sobre tecnologia, dados ou qualquer outro assunto interessante!</p>
+  <p>Estou sempre aberto a novas oportunidades e colaborações. Vamos bater um papo sobre tecnologia, dados ou qualquer outro assunto interessante! 📧 tassiolucian.ljs@gmail.com | 📱 (61) 98297-0840 | 📍 Gama-DF</p>
   
   <a href="https://www.linkedin.com/in/tassio-sales-141826386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
