@@ -90,6 +90,50 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 
 <br><br>
 
+<h2 align="center">🚀 Projetos em Destaque</h2>
+<hr style="width: 60%; border: 1px solid #ccc;">
+
+<table align="center" border="0" cellpadding="10" cellspacing="10">
+  <tr align="center">
+    <td valign="top" width="25%">
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/pricetrack-ai" target="_blank">
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/preview.png" style="width:100%; border-radius:8px;" alt="PriceTrack AI" />
+      </a>
+      <h3>💰 PriceTrack AI</h3>
+      <p>Sistema de rastreamento de preços com IA generativa e automação de análise de mercado.</p>
+      <p><strong>Tecnologias:</strong> Python • Flask • AI • Web Scraping • SQLite</p>
+    </td>
+    <td valign="top" width="25%">
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/plataforma_rifas" target="_blank">
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/preview.png" style="width:100%; border-radius:8px;" alt="Plataforma Rifas" />
+      </a>
+      <h3>🎟 Plataforma de Rifas</h3>
+      <p>Aplicação web completa para sorteios, controle e automação de rifas.</p>
+      <p><strong>Tecnologias:</strong> Flask • Bootstrap • SQLite • Python</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td valign="top" width="25%">
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/gerador_roteiros" target="_blank">
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/preview.png" style="width:100%; border-radius:8px;" alt="Gerador de Roteiros" />
+      </a>
+      <h3>🗺 Gerador de Roteiros</h3>
+      <p>App que cria roteiros automáticos baseados em preferências de usuário e dados geográficos.</p>
+      <p><strong>Tecnologias:</strong> Python • Flask • API Maps • HTML/CSS</p>
+    </td>
+    <td valign="top" width="25%">
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/sorteador_rifa_app" target="_blank">
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/sorteador_rifa_app/preview.png" style="width:100%; border-radius:8px;" alt="Sorteador de Rifas" />
+      </a>
+      <h3>🎲 Sorteador de Rifas</h3>
+      <p>Aplicação simples e intuitiva para sorteios automáticos e gerenciamento de rifas.</p>
+      <p><strong>Tecnologias:</strong> Python • Streamlit • Automação</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 <h2 align="center">💼 Experiência Profissional</h2>
 <hr style="width: 60%; border: 1px solid #ccc;">
 
