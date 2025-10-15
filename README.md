@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img height="210" src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação ilustrando ciência de dados e programação" />
+  <img height="300" src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação ilustrando ciência de dados e programação" />
 </div>
 
 <br>
