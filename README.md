@@ -192,27 +192,28 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 <hr style="width: 60%; border: 1px solid #ccc;">
 
 <div align="left">
+
+  <h3>🎓 Bacharelado em Ciência de Dados e Inteligência Artificial</h3>
   <p>
-    <strong>🎓 Bacharelado em Ciência de Dados e Inteligência Artificial</strong><br>
-    <small>2019 – 2023</small>
+    <small>📅 2019 – 2023 • 📍 IESB</small>
   </p>
   <ul>
-    <li>Base sólida em <strong>matemática, estatística e programação</strong> aplicadas à IA e análise de dados.</li>
-    <li>Ênfase em <strong>Machine Learning</strong>, <strong>Big Data</strong> e <strong>Inteligência Analítica</strong>.</li>
-    <li>Projetos práticos de automação e inovação orientados a dados.</li>
+    <li>Base sólida em ➕ <strong>matemática</strong>, 📊 <strong>estatística</strong> e 💻 <strong>programação</strong> aplicadas à IA e análise de dados.</li>
+    <li>Ênfase em 🧠 <strong>Machine Learning</strong>, 📦 <strong>Big Data</strong> e 📈 <strong>Inteligência Analítica</strong>.</li>
+    <li>Projetos práticos de ⚙️ automação e inovação orientados a dados.</li>
   </ul>
+  <br>
 
-  <hr style="width: 50%; border: 0.5px solid #444;">
-
+  <h3>🎓 Tecnólogo em Big Data e Inteligência Analítica (EAD)</h3>
   <p>
-    <strong>🎓 Tecnólogo em Big Data e Inteligência Analítica (EAD)</strong><br>
-    <small>2023 – 2025</small>
+    <small>📅 2023 – 2025 • 📍 IESB</small>
   </p>
   <ul>
-    <li>Foco em <strong>estatística, mineração de dados</strong> e <strong>modelos preditivos</strong>.</li>
-    <li>Experiência com <strong>Apache Spark</strong>, <strong>Hadoop</strong>, <strong>AWS</strong>, <strong>Python</strong>, <strong>R</strong> e <strong>SAS</strong>.</li>
-    <li>Projetos práticos em <strong>hackathons</strong> e casos reais de negócios.</li>
+    <li>Foco em 📊 <strong>estatística</strong>, ⛏️ <strong>mineração de dados</strong> e 🔮 <strong>modelos preditivos</strong>.</li>
+    <li>Experiência com ⚡ <strong>Apache Spark</strong>, 🐘 <strong>Hadoop</strong>, ☁️ <strong>AWS</strong>, 🐍 <strong>Python</strong>, 📈 <strong>R</strong> e 📊 <strong>SAS</strong>.</li>
+    <li>Projetos práticos em 💡 <strong>hackathons</strong> e casos reais de negócios.</li>
   </ul>
+
 </div>
 
 <br><br>
