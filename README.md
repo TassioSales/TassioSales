@@ -96,7 +96,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 <table align="center" border="0" cellpadding="10" cellspacing="10">
   <tr align="center">
     <td valign="top" width="25%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/pricetrack-ai" target="_blank">
+      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/pricetrack-ai/README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/preview.png" style="width:100%; border-radius:8px;" alt="PriceTrack AI" />
       </a>
       <h3>💰 PriceTrack AI</h3>
@@ -104,7 +104,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
       <p><strong>Tecnologias:</strong> Python • Flask • AI • Web Scraping • SQLite</p>
     </td>
     <td valign="top" width="25%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/plataforma_rifas" target="_blank">
+      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/plataforma_rifas/README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/preview.png" style="width:100%; border-radius:8px;" alt="Plataforma Rifas" />
       </a>
       <h3>🎟 Plataforma de Rifas</h3>
@@ -114,7 +114,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   </tr>
   <tr align="center">
     <td valign="top" width="25%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/gerador_roteiros" target="_blank">
+      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/gerador_roteiros/README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/preview.png" style="width:100%; border-radius:8px;" alt="Gerador de Roteiros" />
       </a>
       <h3>🗺 Gerador de Roteiros</h3>
@@ -122,7 +122,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
       <p><strong>Tecnologias:</strong> Python • Flask • API Maps • HTML/CSS</p>
     </td>
     <td valign="top" width="25%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/sorteador_rifa_app" target="_blank">
+      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/sorteador_rifa_app/README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/sorteador_rifa_app/preview.png" style="width:100%; border-radius:8px;" alt="Sorteador de Rifas" />
       </a>
       <h3>🎲 Sorteador de Rifas</h3>
