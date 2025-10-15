@@ -84,46 +84,6 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" height="30" alt="SAS" title="SAS" />
 </div>
 
-
-<h2 align="center">📜 Certificações</h2>
-<hr style="width: 60%; border: 1px solid #ccc;">
-
-<div align="left" style="margin: 0 auto; max-width: 800px;">
-  <!-- Python -->
-  <details>
-    <summary><b>🎓 Python</b></summary>
-    <ul>
-      <li><b>Python (Básico)</b> - Curso introdutório sobre sintaxe, estruturas de dados e conceitos fundamentais</li>
-      <li><b>Orientação a Objetos em Python</b> - Classes, objetos e pilares da POO aplicados em Python</li>
-      <li><b>Desenvolvimento Orientado a Objetos</b> - Aprofundamento em POO com Python</li>
-      <li><b>Python para Data Science</b> - Uso de Pandas, NumPy e Matplotlib para análise de dados</li>
-      <li><b>Interface Gráfica com Python</b> - Desenvolvimento de aplicações desktop com Tkinter</li>
-    </ul>
-  </details>
-
-  <!-- SAS -->
-  <details>
-    <summary><b>📊 SAS</b></summary>
-    <ul>
-      <li><b>SAS Programming 1: Essentials</b> - Introdução à programação SAS e manipulação básica de dados</li>
-      <li><b>SAS Programming 2: Data Manipulation</b> - Técnicas avançadas de manipulação de dados</li>
-      <li><b>SAS Programming 3: Advanced Techniques</b> - Otimização de código e macros</li>
-      <li><b>SAS SQL 1: Essentials</b> - Fundamentos de SQL no ambiente SAS</li>
-      <li><b>SAS Real-Time Decision Manager</b> - Criação de campanhas de marketing e regras de decisão</li>
-      <li><b>SAS Customer Intelligence Common Data Model</b> - Gerenciamento de modelo de dados para análise de clientes</li>
-    </ul>
-  </details>
-
-  <!-- Outros -->
-  <details>
-    <summary><b>🔧 Outras Ferramentas</b></summary>
-    <ul>
-      <li><b>Git e GitHub</b> - Controle de versão e gerenciamento de projetos colaborativos</li>
-      <li><b>Scrum</b> - Framework ágil para gestão de projetos</li>
-    </ul>
-  </details>
-</div>
-
 <br>
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
