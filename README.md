@@ -77,7 +77,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   
   <!-- Data Visualization -->
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png" height="40" alt="Power BI" title="Microsoft Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" height="40" alt="Power BI" title="Microsoft Power BI" style="background-color: white; padding: 5px; border-radius: 4px;" />
   
   <!-- SAS -->
   <img width="12" />
