@@ -198,6 +198,61 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 <br><br>
 
 <h2 align="center">📚 Formação Acadêmica</h2>
+
+<br>
+
+<h2 align="center">🏆 Certificações</h2>
+<hr style="width: 60%; border: 1px solid #ccc;">
+
+<div align="left">
+  <h3>📜 Python e Programação</h3>
+  <ul>
+    <li><strong>Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python</strong><br>
+    Focado em classes, objetos e os pilares da programação orientada a objetos (POO) aplicados em Python.</li>
+    
+    <li><strong>Python para Data Science</strong><br>
+    Utilização de bibliotecas como Pandas, NumPy e Matplotlib para análise, manipulação e visualização de dados.</li>
+    
+    <li><strong>Linguagem de Programação Python - Básico</strong><br>
+    Curso introdutório sobre a sintaxe, estruturas de dados e conceitos fundamentais da linguagem Python.</li>
+    
+    <li><strong>Python Orientação a Objetos</strong><br>
+    Aprofundamento em classes, objetos e os pilares da programação orientada a objetos (POO) aplicados em Python.</li>
+    
+    <li><strong>Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python</strong><br>
+    Desenvolvimento de aplicações desktop com interfaces gráficas (GUI) utilizando bibliotecas como Tkinter.</li>
+  </ul>
+
+  <h3>📊 SAS</h3>
+  <ul>
+    <li><strong>SAS Programming 1: Essentials</strong><br>
+    Introdução à programação SAS, cobrindo a leitura de dados, manipulação básica e geração de relatórios.</li>
+    
+    <li><strong>SAS Programming 2: Data Manipulation Techniques</strong><br>
+    Técnicas para manipulação de dados em SAS, incluindo junção de tabelas, funções e processamento condicional.</li>
+    
+    <li><strong>SAS Programming 3: Advanced Techniques</strong><br>
+    Tópicos avançados de programação SAS, focados em otimização de código, macros e técnicas eficientes de processamento.</li>
+    
+    <li><strong>SAS SQL 1: Essentials</strong><br>
+    Fundamentos do uso de SQL dentro do ambiente SAS para realizar consultas, filtros e junções de dados.</li>
+    
+    <li><strong>SAS Real-Time Decision Manager: Creating Resources for Inbound Campaigns</strong><br>
+    Focado na criação de campanhas de marketing e regras de decisão em tempo real utilizando a ferramenta SAS RTDM.</li>
+    
+    <li><strong>Managing and Using the SAS® Customer Intelligence Common Data Model</strong><br>
+    Gerenciamento e utilização do modelo de dados do SAS Customer Intelligence para análises de clientes.</li>
+  </ul>
+
+  <h3>🛠️ Outras Tecnologias</h3>
+  <ul>
+    <li><strong>Git e GitHub</strong><br>
+    Focado no sistema de controle de versão Git e na plataforma GitHub para gerenciamento de código e projetos colaborativos.</li>
+    
+    <li><strong>Scrum: Framework Ágil para Gestão de Projetos</strong><br>
+    Capacitação no framework Scrum, abrangendo seus papéis, eventos e artefatos para gestão ágil de projetos.</li>
+  </ul>
+</div>
 <hr style="width: 60%; border: 1px solid #ccc;">
 
 <div align="left">
