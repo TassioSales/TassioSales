@@ -105,7 +105,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
     </td>
     <td valign="top" width="25%">
       <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/plataforma_rifas/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/preview.png" style="width:100%; border-radius:8px;" alt="Plataforma Rifas" />
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" style="width:100%; border-radius:8px;" alt="Plataforma Rifas" />
       </a>
       <h3>🎟 Plataforma de Rifas</h3>
       <p>Aplicação web completa para sorteios, controle e automação de rifas.</p>
