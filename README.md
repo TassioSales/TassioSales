@@ -139,55 +139,51 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 
 <div align="left">
 
+  <h3>🏢 BRQ Digital Solutions</h3>
   <p>
-    <strong>🏢 BRQ Digital Solutions</strong><br>
     <em>Analista de BI Pleno • Cientista de Dados • Programador Python</em><br>
-    <small>Nov/2023 – Atual • São Paulo, SP</small>
+    <small>📅 Nov/2023 – Atual • 📍 São Paulo, SP</small>
   </p>
   <ul>
     <li>Automatizei integrações de dados com <strong>Python</strong>, reduzindo em <strong>20%</strong> o tempo de processamento.</li>
     <li>Criei modelos preditivos com <strong>SAS ID</strong>, elevando a precisão e otimizando recursos operacionais.</li>
     <li>Automatizei consultas SQL, acelerando em <strong>25%</strong> a entrega de relatórios críticos.</li>
   </ul>
-
-  <hr style="width: 50%; border: 0.5px solid #444;">
-
+  <br> <h3>🏢 K2 Partners</h3>
   <p>
-    <strong>🏢 K2 Partners</strong><br>
     <em>Analista de Desenvolvimento de Sistemas • Cientista de Dados</em><br>
-    <small>Jan/2023 – Set/2023 • São Paulo, SP</small>
+    <small>📅 Jan/2023 – Set/2023 • 📍 São Paulo, SP</small>
   </p>
   <ul>
     <li>Estruturei processos de coleta e tratamento de dados com <strong>Python</strong> e <strong>SQL</strong>.</li>
     <li>Implantei sistemas com <strong>SAS RTDM</strong> para respostas em tempo real.</li>
     <li>Automatizei tarefas com <strong>Python</strong>, aumentando a produtividade em <strong>25%</strong>.</li>
   </ul>
+  <br>
 
-  <hr style="width: 50%; border: 0.5px solid #444;">
-
+  <h3>🏢 iBlue Consulting</h3>
   <p>
-    <strong>🏢 iBlue Consulting</strong><br>
     <em>Analista de Desenvolvimento de Sistemas</em><br>
-    <small>Abr/2021 – Dez/2022 • Rio de Janeiro, RJ</small>
+    <small>📅 Abr/2021 – Dez/2022 • 📍 Rio de Janeiro, RJ</small>
   </p>
   <ul>
     <li>Desenvolvi sistemas de resposta em tempo real com <strong>Python</strong>, reduzindo em <strong>30%</strong> o tempo de entrega.</li>
     <li>Integrei dados críticos e garanti a qualidade das informações gerenciais.</li>
     <li>Criei dashboards no <strong>Power BI</strong>, trazendo clareza aos principais KPIs.</li>
   </ul>
+  <br>
 
-  <hr style="width: 50%; border: 0.5px solid #444;">
-
+  <h3>🏢 Procuradoria-Geral da Fazenda Nacional (PGFN)</h3>
   <p>
-    <strong>🏢 Procuradoria-Geral da Fazenda Nacional (PGFN)</strong><br>
     <em>Estágio – Cientista de Dados</em><br>
-    <small>Fev/2019 – Abr/2021 • Brasília, DF</small>
+    <small>📅 Fev/2019 – Abr/2021 • 📍 Brasília, DF</small>
   </p>
   <ul>
     <li>Criei notebooks em <strong>Python</strong> para automação de coleta e limpeza de dados.</li>
     <li>Colaborei na criação de modelos analíticos para suporte à tomada de decisão.</li>
     <li>Automatizei relatórios recorrentes, reduzindo retrabalho e ampliando eficiência.</li>
   </ul>
+
 </div>
 
 <br><br>
