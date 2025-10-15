@@ -13,7 +13,10 @@
 </p>
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação ilustrando ciência de dados e programação" />
+  <video autoplay loop muted playsinline height="250">
+    <source src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" type="video/mp4">
+    Seu navegador não suporta o elemento de vídeo.
+  </video>
 </div>
 
 <br>
