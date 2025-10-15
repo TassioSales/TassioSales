@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Banner/github-header-banner.png" alt="Tássio Sales - Desenvolvedor Full Stack" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/Banner/github-header-banner.png" alt="Tássio Sales - Desenvolvedor Full Stack" style="max-width: 100%;">
 </div>
 
 
