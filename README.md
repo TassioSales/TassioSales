@@ -97,7 +97,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   <tr align="center">
     <td valign="top" width="25%">
       <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/pricetrack-ai/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/preview.png" style="width:100%; border-radius:8px;" alt="PriceTrack AI" />
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" style="width:100%; border-radius:8px;" alt="PriceTrack AI" />
       </a>
       <h3>💰 PriceTrack AI</h3>
       <p>Sistema de rastreamento de preços com IA generativa e automação de análise de mercado.</p>
@@ -115,7 +115,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   <tr align="center">
     <td valign="top" width="25%">
       <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/gerador_roteiros/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/preview.png" style="width:100%; border-radius:8px;" alt="Gerador de Roteiros" />
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/img/Gemini_Generated_Image_n216xen216xen216.png" style="width:100%; border-radius:8px;" alt="Gerador de Roteiros" />
       </a>
       <h3>🗺 Gerador de Roteiros</h3>
       <p>App que cria roteiros automáticos baseados em preferências de usuário e dados geográficos.</p>
@@ -123,7 +123,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
     </td>
     <td valign="top" width="25%">
       <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/sorteador_rifa_app/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/sorteador_rifa_app/preview.png" style="width:100%; border-radius:8px;" alt="Sorteador de Rifas" />
+        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/sorteador_rifa_app/img/Gemini_Generated_Image_n216xen216xen216.png" style="width:100%; border-radius:8px;" alt="Sorteador de Rifas" />
       </a>
       <h3>🎲 Sorteador de Rifas</h3>
       <p>Aplicação simples e intuitiva para sorteios automáticos e gerenciamento de rifas.</p>
