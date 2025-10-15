@@ -51,7 +51,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS" title="Amazon Web Services" />
+  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/light-stripe_powered-by-aws-light-0920200e4cad88fcacf0907a0f4dd43ef4e73bc9.png" height="40" alt="AWS" title="Amazon Web Services" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" title="Jupyter Notebook" />
   <img width="12" />
@@ -69,7 +69,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow" title="TensorFlow" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="60" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60" alt="Scikit-learn" title="Scikit-learn" />
   
   <!-- Web Development -->
   <img width="12" />
@@ -77,11 +77,11 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
   
   <!-- Data Visualization -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="60" alt="Power BI" title="Microsoft Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" height="40" alt="Power BI" title="Microsoft Power BI" />
   
   <!-- SAS -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" height="60" alt="SAS" title="SAS" />
+  <img src="https://www.sas.com/en_us/home/jpm/sas-global-forum/2019/graphics/sas-logo.png" height="40" alt="SAS" title="SAS" />
 </div>
 
 <br>
