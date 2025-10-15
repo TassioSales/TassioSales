@@ -13,19 +13,10 @@
 </p>
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação ilustrando ciência de dados e programação" style="display: block; margin: 0 auto;" />
+  <img height="250" src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação ilustrando ciência de dados e programação" />
 </div>
 
-<script>
-  // Script para garantir que o GIF recarregue para animação contínua
-  document.addEventListener('DOMContentLoaded', function() {
-    const gif = document.querySelector('img[alt*="Animação ilustrando"]');
-    if (gif) {
-      // Força o recarregamento do GIF para garantir a animação
-      gif.src = gif.src + '?' + new Date().getTime();
-    }
-  });
-</script>
+<br>
 
 <h4 align="left">
 Na prática? Eu ensino máquinas a fazer o trabalho chato. Sou o cara que mergulha em processos manuais e dados complexos para encontrar a oportunidade perfeita de automatizar tudo com <strong>Python</strong>.
