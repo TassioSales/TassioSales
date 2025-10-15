@@ -2,9 +2,10 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&theme=cobalt" alt="Cabeçalho animado azul em forma de onda" />
 </div>
 
-<h1 align="center">👋 Olá! Sou o Tássio Sales</h1>
+<div align="center">
+  <img src="Banner/github-header-banner.png" alt="Tássio Sales - Desenvolvedor Full Stack" style="max-width: 100%;">
+</div>
 
-<br>
 
 <p align="center">
   <a href="https://github.com/TassioSales">
