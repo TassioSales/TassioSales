@@ -32,6 +32,7 @@ Adoro a teoria, mas me realizo mesmo quando vejo um script meu rodando e resolve
 💡 <strong>Bora trocar uma ideia?</strong> Curte automação, web scraping ou transformar dados em produtos de valor? Me chama!<br><br>
 
 📫 <strong>Contato:</strong> <a href="mailto:tassiolucian.ljs@gmail.com">tassiolucian.ljs@gmail.com</a><br>
+📄 <strong>Currículo:</strong> <a href="https://drive.google.com/file/d/1H0TI_uiyEgywgleO0LcV580DmFwRguwb/view?usp=sharing" target="_blank">Visualizar Currículo</a><br>
 😄 <strong>Pronomes:</strong> Ele/Dele
 </h4>
 
