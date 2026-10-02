@@ -24,17 +24,17 @@ Na prática? **Eu ensino máquinas a fazer o trabalho chato.** Sou o cara que me
   <tr>
     <td width="50%" valign="top">
       <h4>🔭 O que eu construo no dia a dia</h4>
-      Traduzo problemas de negócio em código. Crio automações que agilizam a entrega de dados, otimizo queries SQL e construo APIs com Flask e FastAPI. Depois transformo a bagunça dos dados em dashboards claros no Power BI que qualquer gestor entende.
+      Traduzo problemas de negócio em código. Hoje, na <b>Bio Mundo</b>, integro o ERP com o e-commerce, mantenho o Data Warehouse e automatizo a operação com Python e SQL. Também construo APIs com Flask e FastAPI e transformo a bagunça dos dados em dashboards que qualquer gestor entende.
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Minhas ferramentas preferidas</h4>
-      Tenho domínio no ecossistema SAS (RTDM e ID) e estou sempre explorando IA Generativa para descobrir novas formas de resolver velhos problemas.
+      Python, SQL e Power BI no dia a dia, domínio no ecossistema SAS (RTDM, ID e Guide), e estou sempre explorando IA Generativa para descobrir novas formas de resolver velhos problemas.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🎓 Minha base</h4>
-      Formação dupla em Big Data e em Ciência de Dados e IA pelo IESB. Acredito que a faculdade te dá as ferramentas; o mercado te ensina a construir de verdade.
+      Formado em Big Data e Inteligência Analítica e em Ciência de Dados e IA pelo IESB. Acredito que a faculdade te dá as ferramentas; o mercado te ensina a construir de verdade.
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ O que ando estudando</h4>
@@ -115,46 +115,137 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 
 <br>
 
-## 🚀 Projetos de produto e automação
+## 🚀 Produto, dados e automação
 
-<table align="center">
-  <tr align="center">
-    <td valign="top" width="50%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/pricetrack-ai/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" width="55%" alt="PriceTrack AI" />
-      </a>
-      <h3>💰 PriceTrack AI</h3>
-      <p>Sistema de rastreamento de preços com IA generativa e automação de análise de mercado.</p>
-      <p><strong>Tecnologias:</strong> Python • Flask • AI • Web Scraping • SQLite</p>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/plataforma_rifas/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" width="55%" alt="Plataforma de Rifas" />
-      </a>
-      <h3>🎟 Plataforma de Rifas</h3>
-      <p>Aplicação web completa para sorteios, controle e automação de rifas.</p>
-      <p><strong>Tecnologias:</strong> Flask • Bootstrap • SQLite • Python</p>
-    </td>
+O repositório [**MeuPortfolio**](https://github.com/TassioSales/MeuPortfolio) reúne **25 projetos** que resolvem um problema específico de ponta a ponta, da coleta do dado à tela que alguém usa, mais as minhas contribuições em código aberto. Três deles estão no ar.
+
+#### Comece por aqui
+
+Seis trabalhos que carregam evidência verificável, não só descrição.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/contribuicoes_open_source"><img src="./assets/destaques/calcom.svg" width="100%" alt="Contribuições no cal.com: 16 pull requests num monorepo TypeScript de 48,7 mil estrelas. 2.030 linhas e 153 casos de teste." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/edge_audit"><img src="./assets/destaques/edge-audit.svg" width="100%" alt="edge-audit: audita funções TypeScript em casos-limite sem escrever teste. 18 falhas achadas em 63 funções do cal.com. 49 testes." /></a></td>
   </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/conciliador_bancario"><img src="./assets/destaques/conciliador.svg" width="100%" alt="Conciliação bancária: cruza o extrato do banco com o contas a receber. 99% de precisão e zero pagamentos atribuídos ao cliente errado. 80 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/crm_conversacional"><img src="./assets/destaques/crm.svg" width="100%" alt="CRM conversacional: atendimento no WhatsApp com agentes de IA e CRM em Kanban. FastAPI, Next.js, PostgreSQL. CI com banco real." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/finan%C3%A7as"><img src="./assets/destaques/erp.svg" width="100%" alt="ERP pessoal: finanças, investimentos, PDV, estoque e nota fiscal. Django, SQLite, Bootstrap. Distribuído também como executável para Windows." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/analise_de_combustiveis"><img src="./assets/destaques/combustiveis.svg" width="100%" alt="Análise de combustíveis: dados da ANP num data lake, com previsão de preço. Python, DuckDB, Go, Next.js." /></a></td>
+  </tr>
+</table>
+
+#### No ar agora
+
+<table>
   <tr align="center">
-    <td valign="top" width="50%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/gerador_roteiros/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/img/Gemini_Generated_Image_n216xen216xen216.png" width="55%" alt="Gerador de Roteiros" />
-      </a>
-      <h3>🗺 Gerador de Roteiros</h3>
-      <p>App que cria roteiros automáticos baseados em preferências de usuário e dados geográficos.</p>
-      <p><strong>Tecnologias:</strong> Python • Flask • API Maps • HTML/CSS</p>
+    <td valign="top" width="33%">
+      <a href="https://pricetrack-ai.streamlit.app"><img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/pricetrack-ai/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" width="100%" alt="PriceTrack AI" /></a>
+      <h3>💰 PriceTrack AI</h3>
+      Monitor de preço em e-commerce com alerta proativo e análise de mercado por IA generativa.
+      <br><br>
+      <sub>Python • Streamlit • Gemini • SQLAlchemy</sub>
+      <br><br>
+      <a href="https://pricetrack-ai.streamlit.app"><img src="https://img.shields.io/badge/abrir_aplica%C3%A7%C3%A3o-30e0ff?style=for-the-badge&logo=streamlit&logoColor=0d1117" height="26" alt="Abrir o PriceTrack AI" /></a>
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/pricetrack-ai"><img src="https://img.shields.io/badge/c%C3%B3digo-0d1117?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Código do PriceTrack AI" /></a>
     </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/TassioSales/MeuPortfolio/blob/main/sorteador_rifa_app/README.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/sorteador_rifa_app/img/Gemini_Generated_Image_n216xen216xen216.png" width="55%" alt="Sorteador de Rifas" />
-      </a>
-      <h3>🎲 Sorteador de Rifas</h3>
-      <p>Aplicação simples e intuitiva para sorteios automáticos e gerenciamento de rifas.</p>
-      <p><strong>Tecnologias:</strong> Python • Streamlit • Automação</p>
+    <td valign="top" width="33%">
+      <a href="https://plataforma-rifas-pro.streamlit.app"><img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/plataforma_rifas/img/Gemini_Generated_Image_k8vevzk8vevzk8ve.png" width="100%" alt="Plataforma de Rifas" /></a>
+      <h3>🎟 Plataforma de Rifas</h3>
+      Gestão completa de rifas e sorteios, com analytics e geração de PDF.
+      <br><br>
+      <sub>Python • Streamlit • SQLite • Docker</sub>
+      <br><br>
+      <a href="https://plataforma-rifas-pro.streamlit.app"><img src="https://img.shields.io/badge/abrir_aplica%C3%A7%C3%A3o-30e0ff?style=for-the-badge&logo=streamlit&logoColor=0d1117" height="26" alt="Abrir a Plataforma de Rifas" /></a>
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/plataforma_rifas"><img src="https://img.shields.io/badge/c%C3%B3digo-0d1117?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Código da Plataforma de Rifas" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://jiqucdwsimgpjhzzhmn3f2.streamlit.app/"><img src="https://raw.githubusercontent.com/TassioSales/MeuPortfolio/main/gerador_roteiros/img/Gemini_Generated_Image_n216xen216xen216.png" width="100%" alt="Gerador de Roteiros" /></a>
+      <h3>🗺 Gerador de Roteiros</h3>
+      Roteiros de viagem personalizados, com alternância automática entre dois provedores de IA.
+      <br><br>
+      <sub>Python • Streamlit • Mistral • Gemini</sub>
+      <br><br>
+      <a href="https://jiqucdwsimgpjhzzhmn3f2.streamlit.app/"><img src="https://img.shields.io/badge/abrir_aplica%C3%A7%C3%A3o-30e0ff?style=for-the-badge&logo=streamlit&logoColor=0d1117" height="26" alt="Abrir o Gerador de Roteiros" /></a>
+      <a href="https://github.com/TassioSales/MeuPortfolio/tree/main/gerador_roteiros"><img src="https://img.shields.io/badge/c%C3%B3digo-0d1117?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Código do Gerador de Roteiros" /></a>
     </td>
   </tr>
 </table>
+
+#### Todos os projetos
+
+<details open>
+<summary><b>📊 Dados e análise</b> (6)</summary>
+<br>
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Análise de Combustíveis](https://github.com/TassioSales/MeuPortfolio/tree/main/analise_de_combustiveis) | Baixa os dados da ANP, processa com Polars, grava em Parquet/DuckDB e serve um dashboard com previsão de preço | Python · DuckDB · Go · Next.js |
+| [Panorama BR](https://github.com/TassioSales/MeuPortfolio/tree/main/panorama_br) | Indicadores econômicos brasileiros com coleta automática do Banco Central e do yfinance | Python · Go · Next.js 14 |
+| [ENEM Insights](https://github.com/TassioSales/MeuPortfolio/tree/main/enem_insights) | Impacto de renda, escola, região e raça nas notas do ENEM, com modelo preditivo | Python · Streamlit · scikit-learn |
+| [DataNarrator](https://github.com/TassioSales/MeuPortfolio/tree/main/data_narrator) | Recebe um CSV ou Excel e devolve a análise exploratória com narrativa gerada por IA e relatório em PDF | Python · Streamlit · Mistral AI |
+| [DevMetrics](https://github.com/TassioSales/MeuPortfolio/tree/main/devmetrics) | Métricas de perfil e repositórios do GitHub com leitura automatizada | Go · Next.js · Mistral AI |
+| [WealthMap Analytics](https://github.com/TassioSales/MeuPortfolio/tree/main/wealthmap_analytics) | Gestão de carteira com previsão de 30 dias, Sharpe, volatilidade e matriz de correlação | Python · FastAPI · Next.js · scikit-learn |
+
+</details>
+
+<details>
+<summary><b>🤖 IA aplicada</b> (8)</summary>
+<br>
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Nexus](https://github.com/TassioSales/MeuPortfolio/tree/main/nexus) | Terminal de IA com interface TUI que executa ferramentas de verdade em loop ReAct, com sessões persistentes | Python · TUI |
+| [MemMap](https://github.com/TassioSales/MeuPortfolio/tree/main/memmap) | Editor de notas que extrai entidades com spaCy e monta um grafo de conhecimento interativo em tempo real | Go · spaCy · D3.js · WebSocket |
+| [DocuMind Local](https://github.com/TassioSales/MeuPortfolio/tree/main/documind_local) | Assistente de documentos que roda na própria máquina: upload, extração de texto, busca e análise | Go · Python · Mistral AI |
+| [Transcritor WhatsApp](https://github.com/TassioSales/MeuPortfolio/tree/main/transcritor_whatsapp) | Transcreve áudios do WhatsApp offline e cruza com o texto exportado para identificar autor e trechos de interesse | Python · faster-whisper · Streamlit |
+| [VoxBR](https://github.com/TassioSales/MeuPortfolio/tree/main/voxbr) | Transcrição de áudio com Whisper e geração de resumo | Python · Whisper · Mistral AI · Next.js |
+| [Gerador de Roteiros](https://jiqucdwsimgpjhzzhmn3f2.streamlit.app/) | Roteiros de viagem personalizados, com alternância entre dois provedores de IA. **No ar** | Python · Streamlit · Mistral · Gemini |
+| [PriceTrack AI](https://pricetrack-ai.streamlit.app) | Monitor de preço em e-commerce com alerta proativo. **No ar** | Python · Streamlit · Gemini · SQLAlchemy |
+| [Bot Telegram](https://github.com/TassioSales/MeuPortfolio/tree/main/bot_telegram) | Bot de produtividade com tarefas, lembretes e respostas por IA | Python · Telegram API · Mistral AI |
+
+</details>
+
+<details>
+<summary><b>🏢 Sistemas de negócio</b> (7)</summary>
+<br>
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Conciliação Bancária](https://github.com/TassioSales/MeuPortfolio/tree/main/conciliador_bancario) | Cruza o extrato do banco com o contas a receber em sete estratégias em cascata; o que não tem evidência fica para revisão | Python · Polars · Streamlit · SQLite |
+| [CRM Conversacional](https://github.com/TassioSales/MeuPortfolio/tree/main/crm_conversacional) | Atendimento no WhatsApp com agentes de IA, qualificação de leads, CRM em Kanban e dashboards | FastAPI · Next.js 14 · PostgreSQL 16 · Redis 7 · Docker |
+| [ERP Pessoal](https://github.com/TassioSales/MeuPortfolio/tree/main/finan%C3%A7as) | Controle financeiro, investimentos, PDV, estoque e emissão de nota fiscal | Django · SQLite · Bootstrap 5 |
+| [CompraBio](https://github.com/TassioSales/MeuPortfolio/tree/main/aprovacao_compras) | Solicitação e aprovação de pedidos de compra com histórico auditável, notificação por e-mail e exportação | Python · Django |
+| [Plataforma de Rifas](https://plataforma-rifas-pro.streamlit.app) | Gestão de rifas com analytics e geração de PDF. **No ar** | Python · Streamlit · SQLite · Docker |
+| [WhatsApp Suporte](https://github.com/TassioSales/MeuPortfolio/tree/main/whatsapp-sup-master) | Bot que coleta um chamado por fluxo guiado e grava em SQLite, deliberadamente sem IA no caminho | TypeScript · SQLite |
+| [Encurtador de URL](https://github.com/TassioSales/MeuPortfolio/tree/main/encurtador_url) | Encurtador com analytics de clique e painel de estatísticas | Go · Next.js · SQLite |
+
+</details>
+
+<details>
+<summary><b>🧪 Código aberto e ferramentas</b> (2)</summary>
+<br>
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Contribuições no cal.com](https://github.com/TassioSales/MeuPortfolio/tree/main/contribuicoes_open_source) | 16 pull requests: comparação de HMAC sujeita a ataque de tempo, bugs de identidade de participante, serialização de log, formatação de moeda e buscas quadráticas | TypeScript |
+| [edge-audit](https://github.com/TassioSales/MeuPortfolio/tree/main/edge_audit) | Lê a assinatura de funções TypeScript, gera as entradas hostis que o tipo admite, chama a função e reporta quatro tipos de falha | TypeScript · ts-morph · Vitest |
+
+</details>
+
+<details>
+<summary><b>🎮 Jogos</b> (2)</summary>
+<br>
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Neon Drift](https://github.com/TassioSales/MeuPortfolio/tree/main/neon_drift) | Jogo arcade com backend de configuração e placar global | Go · HTML5 Canvas |
+| [Neon Snake](https://github.com/TassioSales/MeuPortfolio/tree/main/neon_snake) | Arcade para um jogador com placar persistido | Go · HTML5 Canvas |
+
+</details>
 
 <br>
 
@@ -162,55 +253,45 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 
 <table>
   <tr>
-    <td width="200"><b>Dados e automação</b></td>
+    <td width="210"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,go,ts,js,html,css&theme=dark" height="44" alt="Python, Go, TypeScript, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Dados e análise</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" title="Pandas" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" title="Jupyter Notebook" />&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32" alt="Scikit-learn" title="Scikit-learn" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" title="TensorFlow" />
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" height="28" alt="Polars" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" />
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="28" alt="DuckDB" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />
     </td>
   </tr>
   <tr>
     <td><b>BI e decisão em tempo real</b></td>
     <td>
-      <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-2048x1152.png" height="40" alt="Power BI" title="Microsoft Power BI" />&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" height="26" alt="SAS" title="SAS (RTDM e ID)" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+      <img src="https://img.shields.io/badge/SAS_RTDM-0766D1?style=for-the-badge" height="28" alt="SAS RTDM" />
+      <img src="https://img.shields.io/badge/SAS_ID-0766D1?style=for-the-badge" height="28" alt="SAS ID" />
+      <img src="https://img.shields.io/badge/SAS_Guide-0766D1?style=for-the-badge" height="28" alt="SAS Guide" />
     </td>
   </tr>
   <tr>
     <td><b>Backend e APIs</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="Go" title="Go" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask" title="Flask" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" title="FastAPI" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,redis&theme=dark" height="44" alt="FastAPI, Flask, Django, Node.js, Redis" /></td>
   </tr>
   <tr>
     <td><b>Bancos de dados</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite" title="SQLite" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" height="44" alt="PostgreSQL, MySQL, SQLite" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" height="44" alt="React, Next.js, Tailwind CSS, Bootstrap, Vite" /></td>
   </tr>
   <tr>
     <td><b>Infra e dia a dia</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS" title="Amazon Web Services" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="Visual Studio Code" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode&theme=dark" height="44" alt="Docker, AWS, Git, GitHub, GitHub Actions, VS Code" /></td>
   </tr>
 </table>
 
@@ -219,14 +300,12 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&theme=radical&locale=pt-br" height="165" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&langs_count=8&theme=radical&locale=pt-br" height="170" alt="Linguagens mais usadas" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=radical" height="165" alt="Sequência de commits" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=TassioSales&theme=radical&row=1&margin-w=8" alt="Troféus de conquistas no GitHub" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TassioSales&theme=redical&area=true" width="100%" alt="Gráfico de atividade no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=radical" height="170" alt="Sequência de contribuições" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/30e0ff/TassioSales" width="100%" alt="Calendário de contribuições no GitHub" />
 </div>
 
 <br>
@@ -236,15 +315,32 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 <table>
   <tr>
     <td width="210" valign="top">
+      <b>Bio Mundo</b><br>
+      <sub>ASM Master Franqueadora<br>📅 Nov/2025 – Atual<br>📍 Brasília, DF</sub>
+    </td>
+    <td valign="top">
+      <i>Analista de TI</i>
+      <ul>
+        <li>Integro o <b>ERP</b> com a plataforma de <b>e-commerce</b>, mantendo a sincronização de categorias de produtos e dados críticos do site.</li>
+        <li>Desenvolvo scripts em <b>Python</b> para automatizar processos operacionais, reduzindo tarefas manuais e aumentando a confiabilidade dos dados.</li>
+        <li>Crio e mantenho queries <b>SQL</b> para extração e tratamento de dados que apoiam as decisões da operação.</li>
+        <li>Mantenho o <b>Data Warehouse</b> da empresa, centralizando os dados operacionais das unidades.</li>
+        <li>Construo relatórios e dashboards de <b>BI</b> para acompanhar os indicadores da rede.</li>
+        <li>Cuido da <b>VPN</b> corporativa e monitoro servidores locais e em nuvem, garantindo acesso seguro e disponibilidade para a rede de franqueados.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <b>BRQ Digital Solutions</b><br>
-      <sub>📅 Nov/2023 – Atual<br>📍 São Paulo, SP</sub>
+      <sub>📅 Nov/2023 – Jun/2024<br>📍 São Paulo, SP</sub>
     </td>
     <td valign="top">
       <i>Analista de BI Pleno • Cientista de Dados • Programador Python</i>
       <ul>
-        <li>Automatizei integrações de dados com <b>Python</b>, reduzindo em <b>20%</b> o tempo de processamento.</li>
-        <li>Criei modelos preditivos com <b>SAS ID</b>, elevando a precisão e otimizando recursos operacionais.</li>
-        <li>Automatizei consultas SQL, acelerando em <b>25%</b> a entrega de relatórios críticos.</li>
+        <li>Desenvolvi automações em <b>Python</b> para integrar múltiplas fontes de dados, reduzindo em <b>20%</b> o tempo de processamento.</li>
+        <li>Realizei análises preditivas com <b>SAS ID</b>, aumentando a precisão das previsões operacionais e otimizando a alocação de recursos.</li>
+        <li>Automatizei consultas <b>SQL</b> e rotinas de extração, acelerando em <b>25%</b> a geração de relatórios críticos.</li>
       </ul>
     </td>
   </tr>
@@ -256,9 +352,9 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
     <td valign="top">
       <i>Analista de Desenvolvimento de Sistemas • Cientista de Dados</i>
       <ul>
-        <li>Estruturei processos de coleta e tratamento de dados com <b>Python</b> e <b>SQL</b>.</li>
-        <li>Implantei sistemas com <b>SAS RTDM</b> para respostas em tempo real.</li>
-        <li>Automatizei tarefas com <b>Python</b>, aumentando a produtividade em <b>25%</b>.</li>
+        <li>Modelei processos de coleta e tratamento de dados com <b>Python</b> e <b>SQL</b>, garantindo consistência e confiabilidade das análises.</li>
+        <li>Implementei sistemas de resposta em tempo real com <b>SAS RTDM</b>, possibilitando ajustes imediatos nas estratégias de marketing e vendas.</li>
+        <li>Automatizei tarefas repetitivas com <b>Python</b>, aumentando a produtividade da equipe em <b>25%</b>.</li>
       </ul>
     </td>
   </tr>
@@ -270,9 +366,9 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
     <td valign="top">
       <i>Analista de Desenvolvimento de Sistemas</i>
       <ul>
-        <li>Desenvolvi sistemas de resposta em tempo real com <b>Python</b>, reduzindo em <b>30%</b> o tempo de entrega.</li>
-        <li>Integrei dados críticos e garanti a qualidade das informações gerenciais.</li>
-        <li>Criei dashboards no <b>Power BI</b>, trazendo clareza aos principais KPIs.</li>
+        <li>Desenvolvi sistemas de resposta em tempo real com <b>Python</b>, reduzindo em <b>30%</b> o tempo de entrega de análises críticas.</li>
+        <li>Criei e mantive rotinas de integração de dados, assegurando a consistência das informações usadas pela liderança.</li>
+        <li>Automatizei consultas SQL e desenvolvi dashboards dinâmicos no <b>Power BI</b>, dando visibilidade clara aos principais KPIs.</li>
       </ul>
     </td>
   </tr>
@@ -284,9 +380,9 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
     <td valign="top">
       <i>Estágio – Cientista de Dados</i>
       <ul>
-        <li>Criei notebooks em <b>Python</b> para automação de coleta e limpeza de dados.</li>
-        <li>Colaborei na criação de modelos analíticos para suporte à tomada de decisão.</li>
-        <li>Automatizei relatórios recorrentes, reduzindo retrabalho e ampliando eficiência.</li>
+        <li>Desenvolvi notebooks em <b>Python</b> para automação da coleta e limpeza de dados, otimizando os fluxos internos.</li>
+        <li>Auxiliei na criação de modelos analíticos que identificaram padrões históricos e apoiaram previsões e decisões gerenciais.</li>
+        <li>Automatizei relatórios recorrentes, ampliando a capacidade de análise da equipe e reduzindo o retrabalho.</li>
       </ul>
     </td>
   </tr>
@@ -299,27 +395,26 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 <table>
   <tr>
     <td width="210" valign="top">
-      <b>Bacharelado em Ciência de Dados e Inteligência Artificial</b><br>
-      <sub>📅 2019 – 2023 • 📍 IESB</sub>
+      <b>Tecnólogo em Big Data e Inteligência Analítica (EAD)</b><br>
+      <sub>📅 Mar/2023 – Dez/2025<br>📍 IESB, Brasília</sub>
     </td>
     <td valign="top">
       <ul>
-        <li>Base sólida em ➕ <b>matemática</b>, 📊 <b>estatística</b> e 💻 <b>programação</b> aplicadas à IA e análise de dados.</li>
-        <li>Ênfase em 🧠 <b>Machine Learning</b>, 📦 <b>Big Data</b> e 📈 <b>Inteligência Analítica</b>.</li>
-        <li>Projetos práticos de ⚙️ automação e inovação orientados a dados.</li>
+        <li>Projeto integrador: pipeline de dados em 🐍 <b>Python</b> para análise de gastos parlamentares, com modelagem em <b>star schema</b> e integração via API de dados abertos.</li>
+        <li>Aplicação prática de 🧠 <b>Machine Learning</b>, análise exploratória e visualização ao longo de projetos reais do curso.</li>
+        <li>Experiência com ⚡ <b>Apache Spark</b>, 🐘 <b>Hadoop</b>, ☁️ <b>AWS</b>, 📈 <b>R</b> e 📊 <b>SAS</b>.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>Tecnólogo em Big Data e Inteligência Analítica (EAD)</b><br>
-      <sub>📅 2023 – 2025 • 📍 IESB</sub>
+      <b>Bacharelado em Ciência de Dados e Inteligência Artificial</b><br>
+      <sub>📅 Ago/2019 – Dez/2023<br>📍 IESB, Brasília</sub>
     </td>
     <td valign="top">
       <ul>
-        <li>Foco em 📊 <b>estatística</b>, ⛏️ <b>mineração de dados</b> e 🔮 <b>modelos preditivos</b>.</li>
-        <li>Experiência com ⚡ <b>Apache Spark</b>, 🐘 <b>Hadoop</b>, ☁️ <b>AWS</b>, 🐍 <b>Python</b>, 📈 <b>R</b> e 📊 <b>SAS</b>.</li>
-        <li>Projetos práticos em 💡 <b>hackathons</b> e casos reais de negócios.</li>
+        <li>Base em ➕ <b>matemática</b>, 📊 <b>estatística</b>, 💻 <b>programação</b> e <b>Machine Learning</b>, com ênfase na aplicação de algoritmos de IA em dados estruturados e não estruturados.</li>
+        <li>Projetos práticos de análise exploratória, visualização de dados e modelagem preditiva.</li>
       </ul>
     </td>
   </tr>

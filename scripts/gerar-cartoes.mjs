@@ -15,7 +15,17 @@ const projetos = [
   { slug: "lume", titulo: "Banco chave-valor em árvore LSM", numero: "185 mil/s", legenda: "escritas; reabre 113 MB em 18 ms", stack: ["Go", "React", "TypeScript"], testes: 10, bg: "#130f0c", ink: "#f7ecdd", accent: "#ff6b1a" },
 ];
 
-const FONT = "'Segoe UI', Helvetica, Arial, sans-serif";
+// Projetos do repositório MeuPortfolio que carregam evidência verificável.
+const destaques = [
+  { slug: "calcom", nome: "cal.com", titulo: "16 pull requests num monorepo TypeScript de 48,7 mil estrelas", numero: "16 PRs", legenda: "2.030 linhas, do ataque de tempo no HMAC a buscas quadráticas", stack: ["TypeScript", "Open source"], selo: "153 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#30e0ff" },
+  { slug: "edge-audit", nome: "edge-audit", titulo: "Audita funções TypeScript em casos-limite sem escrever teste", numero: "18 falhas", legenda: "achadas em 63 funções do cal.com, em 906 chamadas", stack: ["TypeScript", "ts-morph", "Vitest"], selo: "49 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#a78bfa" },
+  { slug: "conciliador", nome: "conciliação bancária", titulo: "Cruza o extrato do banco com o contas a receber", numero: "99%", legenda: "de precisão, e zero pagamentos no cliente errado", stack: ["Python", "Polars", "Streamlit"], selo: "80 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#34d399" },
+  { slug: "crm", nome: "crm conversacional", titulo: "Atendimento no WhatsApp com agentes de IA e CRM em Kanban", numero: "IA + CRM", legenda: "qualificação automática de leads e painéis de desempenho", stack: ["FastAPI", "Next.js", "PostgreSQL"], selo: "CI com banco real", bg: "#0d1117", ink: "#e6edf3", accent: "#fb7185" },
+  { slug: "erp", nome: "erp pessoal", titulo: "Finanças, investimentos, PDV, estoque e nota fiscal", numero: "ERP", legenda: "distribuído também como executável para Windows", stack: ["Django", "SQLite", "Bootstrap"], selo: "21 arq. de teste", bg: "#0d1117", ink: "#e6edf3", accent: "#fbbf24" },
+  { slug: "combustiveis", nome: "combustíveis", titulo: "Dados da ANP num data lake, com previsão de preço", numero: "ANP", legenda: "Polars, Parquet e DuckDB servindo um dashboard", stack: ["Python", "DuckDB", "Go", "Next.js"], selo: "pipeline", bg: "#0d1117", ink: "#e6edf3", accent: "#f97316" },
+];
+
+const FONT ="'Segoe UI', Helvetica, Arial, sans-serif";
 const MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace";
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
 
@@ -38,7 +48,7 @@ function cartao(p) {
   const H = 210;
   const titulo = linhas(p.titulo, 40);
   let x = 24;
-  const chips = [...p.stack, `${p.testes} testes`]
+  const chips = [...p.stack, p.selo ?? `${p.testes} testes`]
     .map((s, i) => {
       const w = Math.round(s.length * 6.7 + 18);
       const ultimo = i === p.stack.length;
@@ -47,10 +57,10 @@ function cartao(p) {
       return chip;
     })
     .join("");
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(p.slug)}: ${esc(p.titulo)}">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(p.nome ?? p.slug)}: ${esc(p.titulo)}">
   <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="14" fill="${p.bg}" stroke="${p.ink}" stroke-opacity=".25" stroke-width="2"/>
   <rect x="1" y="1" width="8" height="${H - 2}" rx="4" fill="${p.accent}"/>
-  <text x="24" y="44" font-family="${FONT}" font-size="26" font-weight="800" fill="${p.ink}" letter-spacing="-0.5">${esc(p.slug)}</text>
+  <text x="24" y="44" font-family="${FONT}" font-size="26" font-weight="800" fill="${p.ink}" letter-spacing="-0.5">${esc(p.nome ?? p.slug)}</text>
   <text x="${W - 22}" y="42" text-anchor="end" font-family="${FONT}" font-size="22" font-weight="800" fill="${p.accent}">${esc(p.numero)}</text>
   ${titulo.map((l, i) => `<text x="24" y="${74 + i * 20}" font-family="${FONT}" font-size="15" font-weight="600" fill="${p.ink}">${esc(l)}</text>`).join("\n  ")}
   <text x="24" y="${84 + titulo.length * 20}" font-family="${FONT}" font-size="13" fill="${p.ink}" fill-opacity=".72">${esc(p.legenda)}</text>
@@ -86,5 +96,7 @@ function numeros() {
 
 mkdirSync("assets/projetos", { recursive: true });
 for (const p of projetos) writeFileSync(`assets/projetos/${p.slug}.svg`, cartao(p));
+mkdirSync("assets/destaques", { recursive: true });
+for (const p of destaques) writeFileSync(`assets/destaques/${p.slug}.svg`, cartao(p));
 writeFileSync("assets/numeros.svg", numeros());
-console.log(`${projetos.length} cartões e a faixa de números gerados em assets/`);
+console.log(`${projetos.length + destaques.length} cartões e a faixa de números gerados em assets/`);
