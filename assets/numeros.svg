@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="10 sistemas construídos do zero, 260 testes automatizados, 54 mil linhas de Go e TypeScript, 1 comando para rodar cada um">
+  <rect x="1" y="1" width="898" height="108" rx="14" fill="#0d1117" stroke="#30e0ff" stroke-opacity=".5" stroke-width="2"/>
+  <g transform="translate(0 0)">
+    
+    <text x="112.5" y="52" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#30e0ff">10</text>
+    <text x="112.5" y="80" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">sistemas construídos do zero</text>
+  </g>
+  <g transform="translate(225 0)">
+    <line x1="0" x2="0" y1="24" y2="86" stroke="#ffffff" stroke-opacity=".15"/>
+    <text x="112.5" y="52" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#30e0ff">260</text>
+    <text x="112.5" y="80" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">testes automatizados</text>
+  </g>
+  <g transform="translate(450 0)">
+    <line x1="0" x2="0" y1="24" y2="86" stroke="#ffffff" stroke-opacity=".15"/>
+    <text x="112.5" y="52" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#30e0ff">54 mil</text>
+    <text x="112.5" y="80" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">linhas de Go e TypeScript</text>
+  </g>
+  <g transform="translate(675 0)">
+    <line x1="0" x2="0" y1="24" y2="86" stroke="#ffffff" stroke-opacity=".15"/>
+    <text x="112.5" y="52" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#30e0ff">1</text>
+    <text x="112.5" y="80" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">comando para rodar cada um</text>
+  </g>
+</svg>
