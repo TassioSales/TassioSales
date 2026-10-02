@@ -14,10 +14,6 @@
   <a href="https://github.com/TassioSales"><img src="https://komarev.com/ghpvc/?username=TassioSales&style=for-the-badge&color=blue&label=visitas" height="28" alt="Contador de visitas do perfil" /></a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/gift/Coding%20Work%20From%20Home%20GIF%20by%20Persona.gif" alt="Animação de uma pessoa programando em casa" height="230" loading="eager" />
-</div>
-
 <br>
 
 ## 👋 Sobre mim
