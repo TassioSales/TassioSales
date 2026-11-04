@@ -24,21 +24,21 @@ Na prática? **Eu ensino máquinas a fazer o trabalho chato.** Sou o cara que me
   <tr>
     <td width="50%" valign="top">
       <h4>🔭 O que eu construo no dia a dia</h4>
-      Traduzo problemas de negócio em código. Hoje, na <b>Bio Mundo</b>, integro o ERP com o e-commerce, mantenho o Data Warehouse e automatizo a operação com Python e SQL. Também construo APIs com Flask e FastAPI e transformo a bagunça dos dados em dashboards que qualquer gestor entende.
+      Traduzo problemas complexos em código limpo e escalável. Trabalho na interseção entre <b>automação de processos</b>, <b>engenharia de dados</b> e <b>desenvolvimento de sistemas</b> com <b>Python</b>, <b>Rust</b> e <b>Go</b>. Mantenho pipelines de alta precisão, construo APIs resilientes e transformo fluxos operacionais em ferramentas automatizadas.
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Minhas ferramentas preferidas</h4>
-      Python, SQL e Power BI no dia a dia, domínio no ecossistema SAS (RTDM, ID e Guide), e estou sempre explorando IA Generativa para descobrir novas formas de resolver velhos problemas.
+      Python, Rust, Go e SQL; ecossistema de bancos relacionais e em memória; desenvolvimento desktop nativo (GPUI), ferramentas de segurança defensiva/ofensiva e arquiteturas distribuídas de alta concorrência.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🎓 Minha base</h4>
-      Formado em Big Data e Inteligência Analítica e em Ciência de Dados e IA pelo IESB. Acredito que a faculdade te dá as ferramentas; o mercado te ensina a construir de verdade.
+      Formado em Big Data e Inteligência Analítica e em Ciência de Dados e IA pelo IESB. A formação acadêmica me deu o método; a vivência em produção e o código aberto me ensinaram a projetar para resistir a falhas.
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ O que ando estudando</h4>
-      Como os sistemas funcionam por dentro. Construí do zero, em Go e TypeScript, um banco de dados, um motor de busca, uma fila de jobs e um editor colaborativo. Estão logo abaixo.
+      <h4>🛠️ O que ando estudando & construindo</h4>
+      Sistemas por dentro: construí do zero bancos LSM, motores de busca, CRDTs e algoritmos de consenso. Também contribuo ativamente no core de projetos globais como <b>ProjectDiscovery</b>, <b>CapSoftware</b> e <b>BasedHardware</b>.
     </td>
   </tr>
 </table>
@@ -110,6 +110,48 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 | [cifra](https://github.com/TassioSales/cifra) | Guardar segredos num servidor que não pode lê-los | Hierarquia de chaves (Argon2id, HKDF, AES-GCM, ECDH), compartilhamento e revogação |
 | [pauta](https://github.com/TassioSales/pauta) | Várias pessoas formatando o mesmo texto ao mesmo tempo | CRDT de texto rico, o próprio editor, comentários ancorados, desfazer por pessoa |
 | [mesa](https://github.com/TassioSales/mesa) | Colaborar offline sem tela de conflito | CRDTs de texto e de registro, ordenação fracionária, sincronização por vetores de versão |
+
+</details>
+
+<br>
+
+## 🛡️ Código Aberto, Segurança & Engenharia de Sistemas
+
+<div align="center">
+  <img src="./assets/numeros-impacto.svg" alt="130+ PRs em projetos open source, 35+ contribuições ProjectDiscovery, Rust e Go em sistemas e segurança defensiva, 100% CI verde" width="100%" />
+</div>
+
+<br>
+
+Contribuições ativas no núcleo de ferramentas globais de segurança defensiva/ofensiva, engines desktop em tempo real e ecossistemas de inteligência artificial. Todos os envios contam com testes automatizados, verificação rigorosa de concorrência e aprovações por mantenedores de referência.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/projectdiscovery"><img src="./assets/destaques/projectdiscovery.svg" width="100%" alt="ProjectDiscovery: Core contributor em ferramentas de segurança ofensiva. 35+ PRs em Go. Nuclei, Katana, Subfinder, Dnsx, TLSX e templates CVE oficiais." /></a></td>
+    <td width="50%"><a href="https://github.com/CapSoftware/Cap"><img src="./assets/destaques/cap.svg" width="100%" alt="CapSoftware: Engine desktop de gravação de tela em Rust (GPUI). Win32 click-through, resoluções de display e deep links." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/BasedHardware/omi"><img src="./assets/destaques/omi.svg" width="100%" alt="BasedHardware Omi: Ecossistema de IA wearable. Testes assíncronos de privacidade de logs, portabilidade NixOS e pipelines de streaming." /></a></td>
+    <td width="50%"><a href="https://github.com/tryabby/abby"><img src="./assets/destaques/abby.svg" width="100%" alt="Abby: SDK oficial de feature flags e experimentação para Vue 3 com TypeScript e 100% de cobertura." /></a></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Destaques de contribuições recentes no core</b></summary>
+<br>
+
+| Projeto | Área / Escopo | O que foi resolvido | Stack |
+| --- | --- | --- | --- |
+| [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Segurança / CVE | Template oficial para **CVE-2026-22777** (ComfyUI-Manager CRLF config injection, CVSS 9.8 Critical) com probe e rollback | YAML · Nuclei Engine |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Concorrência / Network | Sincronização de requisições RDAP/WHOIS concorrentes e isolamento do pool de runtime JS | Go · Concurrency · Network |
+| [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | Crawler / Memory | Prevenção de travamento em streaming responses no crawler híbrido e eliminação de data races | Go · Headless Chrome |
+| [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) | Recon / Rate Limit | Interrupção imediata de requests não autenticados e correção de paginação de fontes passivas | Go · REST APIs |
+| [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) | DNS / Resolution | Preservação de status `NXDOMAIN` em consultas combinadas com dangling CNAMEs | Go · DNS Protocol |
+| [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) | CDN / Parsing | Suporte completo a sufixos públicos aninhados (Fastly, AWS ELB) no analisador de CDN | Go · CIDR · Network |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Desktop Engine / UI | Suporte a window click-through nativo Win32 (`WS_EX_TRANSPARENT`) e resolução dinâmica multi-display no runner Rust | Rust · GPUI · Win32 |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI Wearable / Privacy | Verificação estrita de privacidade em logs INFO em workers assíncronos e resolução portátil de executáveis no CI | Python · AsyncIO · Pytest |
+| [tryabby/abby](https://github.com/tryabby/abby) | Frontend SDK | Implementação do pacote oficial `@tryabby/vue` com reatividade composable e testes unitários | Vue 3 · TypeScript · Vitest |
+| [calcom/cal.com](https://github.com/calcom/cal.com) | Enterprise Scheduling | Mitigação de timing attacks em HMAC e otimização de buscas em monorepo com 48k+ estrelas | TypeScript · Monorepo |
 
 </details>
 
@@ -254,7 +296,17 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 <table>
   <tr>
     <td width="210"><b>Linguagens</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,go,ts,js,html,css&theme=dark" height="44" alt="Python, Go, TypeScript, JavaScript, HTML, CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,rust,go,ts,js,html,css&theme=dark" height="44" alt="Python, Rust, Go, TypeScript, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Segurança e Redes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Security_Research-0d1117?style=for-the-badge&logo=shield&logoColor=38bdf8" height="28" alt="Security Research" />
+      <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=target&logoColor=30e0ff" height="28" alt="Nuclei" />
+      <img src="https://img.shields.io/badge/Network_Protocols-0d1117?style=for-the-badge&logo=wireshark&logoColor=5eead4" height="28" alt="Network Protocols" />
+      <img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" alt="Linux Internals" />
+      <img src="https://img.shields.io/badge/CVE_Author-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=f43f5e" height="28" alt="CVE Author" />
+    </td>
   </tr>
   <tr>
     <td><b>Dados e análise</b></td>

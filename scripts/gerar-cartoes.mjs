@@ -1,6 +1,11 @@
 // Gera os cartões SVG dos projetos e a faixa de números usados no README.
 // Uso: node scripts/gerar-cartoes.mjs
 import { mkdirSync, writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const root = join(__dirname, "..");
 
 const projetos = [
   { slug: "simulacra", titulo: "Teste de sistemas distribuídos por simulação determinística", numero: "8.000+", legenda: "sementes sem violação no Raft correto", stack: ["Go", "React", "TypeScript"], testes: 66, bg: "#0b1020", ink: "#e6ecff", accent: "#5eead4" },
@@ -15,8 +20,12 @@ const projetos = [
   { slug: "lume", titulo: "Banco chave-valor em árvore LSM", numero: "185 mil/s", legenda: "escritas; reabre 113 MB em 18 ms", stack: ["Go", "React", "TypeScript"], testes: 10, bg: "#130f0c", ink: "#f7ecdd", accent: "#ff6b1a" },
 ];
 
-// Projetos do repositório MeuPortfolio que carregam evidência verificável.
+// Projetos em destaque e contribuições de alto impacto
 const destaques = [
+  { slug: "projectdiscovery", nome: "ProjectDiscovery", titulo: "Core contributor em ferramentas essenciais de segurança defensiva e ofensiva", numero: "35+ PRs", legenda: "Nuclei, Katana, Subfinder, Dnsx, TLSX e templates oficiais de CVE", stack: ["Go", "Security", "Open Source"], selo: "CI 100% verde", bg: "#0d1117", ink: "#e6edf3", accent: "#38bdf8" },
+  { slug: "cap", nome: "CapSoftware (Cap)", titulo: "Engine desktop de gravação de tela de alta performance em Rust (GPUI)", numero: "Rust Core", legenda: "Win32 click-through, resoluções de display e deep links desktop", stack: ["Rust", "GPUI", "TypeScript"], selo: "Desktop Core", bg: "#0d1117", ink: "#e6edf3", accent: "#f43f5e" },
+  { slug: "omi", nome: "BasedHardware (Omi)", titulo: "Ecossistema open-source de IA wearable e transcrição contínua", numero: "AI Wearable", legenda: "testes assíncronos de privacidade de logs, NixOS e streaming de áudio", stack: ["Python", "Dart", "AsyncIO"], selo: "Privacy Core", bg: "#0d1117", ink: "#e6edf3", accent: "#a855f7" },
+  { slug: "abby", nome: "Abby (tryabby)", titulo: "SDK oficial de feature flags e experimentação para Vue 3", numero: "@tryabby/vue", legenda: "integração reativa para Vue 3 com TypeScript e 100% de cobertura", stack: ["Vue 3", "TypeScript", "Vitest"], selo: "Official SDK", bg: "#0d1117", ink: "#e6edf3", accent: "#4ade80" },
   { slug: "calcom", nome: "cal.com", titulo: "16 pull requests num monorepo TypeScript de 48,7 mil estrelas", numero: "16 PRs", legenda: "2.030 linhas, do ataque de tempo no HMAC a buscas quadráticas", stack: ["TypeScript", "Open source"], selo: "153 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#30e0ff" },
   { slug: "edge-audit", nome: "edge-audit", titulo: "Audita funções TypeScript em casos-limite sem escrever teste", numero: "18 falhas", legenda: "achadas em 63 funções do cal.com, em 906 chamadas", stack: ["TypeScript", "ts-morph", "Vitest"], selo: "49 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#a78bfa" },
   { slug: "conciliador", nome: "conciliação bancária", titulo: "Cruza o extrato do banco com o contas a receber", numero: "99%", legenda: "de precisão, e zero pagamentos no cliente errado", stack: ["Python", "Polars", "Streamlit"], selo: "80 testes", bg: "#0d1117", ink: "#e6edf3", accent: "#34d399" },
@@ -25,7 +34,7 @@ const destaques = [
   { slug: "combustiveis", nome: "combustíveis", titulo: "Dados da ANP num data lake, com previsão de preço", numero: "ANP", legenda: "Polars, Parquet e DuckDB servindo um dashboard", stack: ["Python", "DuckDB", "Go", "Next.js"], selo: "pipeline", bg: "#0d1117", ink: "#e6edf3", accent: "#f97316" },
 ];
 
-const FONT ="'Segoe UI', Helvetica, Arial, sans-serif";
+const FONT = "'Segoe UI', Helvetica, Arial, sans-serif";
 const MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace";
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
 
@@ -73,7 +82,7 @@ function numeros() {
   const itens = [
     ["10", "sistemas construídos do zero"],
     [String(projetos.reduce((n, p) => n + p.testes, 0)), "testes automatizados"],
-    ["54 mil", "linhas de Go e TypeScript"],
+    ["54 mil+", "linhas de Go, Rust e TS"],
     ["1", "comando para rodar cada um"],
   ];
   const W = 900;
@@ -94,9 +103,35 @@ function numeros() {
 `;
 }
 
-mkdirSync("assets/projetos", { recursive: true });
-for (const p of projetos) writeFileSync(`assets/projetos/${p.slug}.svg`, cartao(p));
-mkdirSync("assets/destaques", { recursive: true });
-for (const p of destaques) writeFileSync(`assets/destaques/${p.slug}.svg`, cartao(p));
-writeFileSync("assets/numeros.svg", numeros());
-console.log(`${projetos.length + destaques.length} cartões e a faixa de números gerados em assets/`);
+function numerosImpacto() {
+  const itens = [
+    ["130+", "PRs em projetos open source"],
+    ["35+", "contribuições ProjectDiscovery"],
+    ["Rust & Go", "sistemas e segurança defensiva"],
+    ["100%", "CI verde e testes rigorosos"],
+  ];
+  const W = 900;
+  const H = 110;
+  const col = W / itens.length;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${itens.map((i) => i.join(" ")).join(", ")}">
+  <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="14" fill="#0d1117" stroke="#38bdf8" stroke-opacity=".5" stroke-width="2"/>
+  ${itens
+    .map(
+      ([n, t], i) => `<g transform="translate(${i * col} 0)">
+    ${i ? `<line x1="0" x2="0" y1="24" y2="${H - 24}" stroke="#ffffff" stroke-opacity=".15"/>` : ""}
+    <text x="${col / 2}" y="52" text-anchor="middle" font-family="${FONT}" font-size="34" font-weight="800" fill="#38bdf8">${n}</text>
+    <text x="${col / 2}" y="80" text-anchor="middle" font-family="${FONT}" font-size="14" fill="#e6edf3">${t}</text>
+  </g>`,
+    )
+    .join("\n  ")}
+</svg>
+`;
+}
+
+mkdirSync(join(root, "assets/projetos"), { recursive: true });
+for (const p of projetos) writeFileSync(join(root, `assets/projetos/${p.slug}.svg`), cartao(p));
+mkdirSync(join(root, "assets/destaques"), { recursive: true });
+for (const p of destaques) writeFileSync(join(root, `assets/destaques/${p.slug}.svg`), cartao(p));
+writeFileSync(join(root, "assets/numeros.svg"), numeros());
+writeFileSync(join(root, "assets/numeros-impacto.svg"), numerosImpacto());
+console.log(`${projetos.length + destaques.length} cartões e faixas de números gerados em assets/`);
