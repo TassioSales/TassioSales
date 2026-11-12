@@ -53,7 +53,7 @@ Na prática? **Eu ensino máquinas a fazer o trabalho chato.** Sou o cara que me
 ## 🧱 Sistemas construídos do zero
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/numeros.svg" alt="10 sistemas construídos do zero, 260 testes automatizados, 54 mil linhas de Go e TypeScript, 1 comando para rodar cada um" width="100%" />
+  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/numeros.svg?v=3" alt="10 sistemas construídos do zero, 260 testes automatizados, 54 mil linhas de Go e TypeScript, 1 comando para rodar cada um" width="100%" />
 </div>
 
 <br>
@@ -64,12 +64,12 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/lume"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/lume.svg" width="100%" alt="lume: banco chave-valor em árvore LSM. 185 mil escritas por segundo. Go, React, TypeScript. 10 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/busca"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/busca.svg" width="100%" alt="busca: motor de busca de texto com a conta à mostra. Cerca de 1 ms por consulta em 50 mil documentos. Go, React, TypeScript. 15 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/lume"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/lume.svg?v=3" width="100%" alt="lume: banco chave-valor em árvore LSM. 185 mil escritas por segundo. Go, React, TypeScript. 10 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/busca"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/busca.svg?v=3" width="100%" alt="busca: motor de busca de texto com a conta à mostra. Cerca de 1 ms por consulta em 50 mil documentos. Go, React, TypeScript. 15 testes." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/razao"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/razao.svg" width="100%" alt="razao: livro-razão de partidas dobradas com commit em grupo. 73 vezes mais vazão, 11.386 transações por segundo. Go, PostgreSQL, React. 18 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/plano"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/plano.svg" width="100%" alt="plano: leitor de planos de execução do PostgreSQL. TypeScript, Go, PostgreSQL. 25 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/razao"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/razao.svg?v=3" width="100%" alt="razao: livro-razão de partidas dobradas com commit em grupo. 73 vezes mais vazão, 11.386 transações por segundo. Go, PostgreSQL, React. 18 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/plano"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/plano.svg?v=3" width="100%" alt="plano: leitor de planos de execução do PostgreSQL. TypeScript, Go, PostgreSQL. 25 testes." /></a></td>
   </tr>
 </table>
 
@@ -77,12 +77,12 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/simulacra"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/simulacra.svg" width="100%" alt="simulacra: teste de sistemas distribuídos por simulação determinística. Mais de 8.000 sementes sem violação no Raft correto. Go, React, TypeScript. 66 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/fila"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/fila.svg" width="100%" alt="fila: fila de jobs sobre PostgreSQL. 3.180 jobs por segundo, zero execuções duplicadas. Go, PostgreSQL, React. 12 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/simulacra"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/simulacra.svg?v=3" width="100%" alt="simulacra: teste de sistemas distribuídos por simulação determinística. Mais de 8.000 sementes sem violação no Raft correto. Go, React, TypeScript. 66 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/fila"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/fila.svg?v=3" width="100%" alt="fila: fila de jobs sobre PostgreSQL. 3.180 jobs por segundo, zero execuções duplicadas. Go, PostgreSQL, React. 12 testes." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/trilha"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/trilha.svg" width="100%" alt="trilha: coletor de traces que aponta a causa da lentidão. 5 diagnósticos automáticos. Go, OpenTelemetry, React. 13 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/cifra"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/cifra.svg" width="100%" alt="cifra: cofre de senhas com criptografia de ponta a ponta. O servidor guarda tudo e não lê nada. TypeScript, WebCrypto, Go. 38 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/trilha"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/trilha.svg?v=3" width="100%" alt="trilha: coletor de traces que aponta a causa da lentidão. 5 diagnósticos automáticos. Go, OpenTelemetry, React. 13 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/cifra"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/cifra.svg?v=3" width="100%" alt="cifra: cofre de senhas com criptografia de ponta a ponta. O servidor guarda tudo e não lê nada. TypeScript, WebCrypto, Go. 38 testes." /></a></td>
   </tr>
 </table>
 
@@ -90,8 +90,8 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/pauta"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/pauta.svg" width="100%" alt="pauta: editor de texto colaborativo, do CRDT ao cursor. Formatação concorrente que converge. TypeScript, React, Go. 31 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/mesa"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/mesa.svg" width="100%" alt="mesa: quadro kanban colaborativo que funciona sem internet. CRDT escrito do zero. TypeScript, React, Go. 32 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/pauta"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/pauta.svg?v=3" width="100%" alt="pauta: editor de texto colaborativo, do CRDT ao cursor. Formatação concorrente que converge. TypeScript, React, Go. 31 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/mesa"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/projetos/mesa.svg?v=3" width="100%" alt="mesa: quadro kanban colaborativo que funciona sem internet. CRDT escrito do zero. TypeScript, React, Go. 32 testes." /></a></td>
   </tr>
 </table>
 
@@ -119,7 +119,7 @@ Dez projetos em que o miolo foi escrito à mão, sem biblioteca pronta para a pa
 ## 🛡️ Código Aberto, Segurança & Engenharia de Sistemas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/numeros-impacto.svg" alt="130+ PRs em projetos open source, 35+ contribuições ProjectDiscovery, Rust e Go em sistemas e segurança defensiva, 100% CI verde" width="100%" />
+  <img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/numeros-impacto.svg?v=3" alt="130+ PRs em projetos open source, 35+ contribuições ProjectDiscovery, Rust e Go em sistemas e segurança defensiva, 100% CI verde" width="100%" />
 </div>
 
 <br>
@@ -128,12 +128,12 @@ Contribuições ativas no núcleo de ferramentas globais de segurança defensiva
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/projectdiscovery"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/projectdiscovery.svg" width="100%" alt="ProjectDiscovery: Core contributor em ferramentas de segurança ofensiva. 35+ PRs em Go. Nuclei, Katana, Subfinder, Dnsx, TLSX e templates CVE oficiais." /></a></td>
-    <td width="50%"><a href="https://github.com/CapSoftware/Cap"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/cap.svg" width="100%" alt="CapSoftware: Engine desktop de gravação de tela em Rust (GPUI). Win32 click-through, resoluções de display e deep links." /></a></td>
+    <td width="50%"><a href="https://github.com/projectdiscovery"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/projectdiscovery.svg?v=3" width="100%" alt="ProjectDiscovery: Core contributor em ferramentas de segurança ofensiva. 35+ PRs em Go. Nuclei, Katana, Subfinder, Dnsx, TLSX e templates CVE oficiais." /></a></td>
+    <td width="50%"><a href="https://github.com/CapSoftware/Cap"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/cap.svg?v=3" width="100%" alt="CapSoftware: Engine desktop de gravação de tela em Rust (GPUI). Win32 click-through, resoluções de display e deep links." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/BasedHardware/omi"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/omi.svg" width="100%" alt="BasedHardware Omi: Ecossistema de IA wearable. Testes assíncronos de privacidade de logs, portabilidade NixOS e pipelines de streaming." /></a></td>
-    <td width="50%"><a href="https://github.com/tryabby/abby"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/abby.svg" width="100%" alt="Abby: SDK oficial de feature flags e experimentação para Vue 3 com TypeScript e 100% de cobertura." /></a></td>
+    <td width="50%"><a href="https://github.com/BasedHardware/omi"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/omi.svg?v=3" width="100%" alt="BasedHardware Omi: Ecossistema de IA wearable. Testes assíncronos de privacidade de logs, portabilidade NixOS e pipelines de streaming." /></a></td>
+    <td width="50%"><a href="https://github.com/tryabby/abby"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/abby.svg?v=3" width="100%" alt="Abby: SDK oficial de feature flags e experimentação para Vue 3 com TypeScript e 100% de cobertura." /></a></td>
   </tr>
 </table>
 
@@ -170,16 +170,16 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/contribuicoes_open_source"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/calcom.svg" width="100%" alt="Contribuições no cal.com: 16 pull requests num monorepo TypeScript de 48,7 mil estrelas. 2.030 linhas e 153 casos de teste." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/edge_audit"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/edge-audit.svg" width="100%" alt="edge-audit: audita funções TypeScript em casos-limite sem escrever teste. 18 falhas achadas em 63 funções do cal.com. 49 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/contribuicoes_open_source"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/calcom.svg?v=3" width="100%" alt="Contribuições no cal.com: 16 pull requests num monorepo TypeScript de 48,7 mil estrelas. 2.030 linhas e 153 casos de teste." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/edge_audit"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/edge-audit.svg?v=3" width="100%" alt="edge-audit: audita funções TypeScript em casos-limite sem escrever teste. 18 falhas achadas em 63 funções do cal.com. 49 testes." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/conciliador_bancario"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/conciliador.svg" width="100%" alt="Conciliação bancária: cruza o extrato do banco com o contas a receber. 99% de precisão e zero pagamentos atribuídos ao cliente errado. 80 testes." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/crm_conversacional"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/crm.svg" width="100%" alt="CRM conversacional: atendimento no WhatsApp com agentes de IA e CRM em Kanban. FastAPI, Next.js, PostgreSQL. CI com banco real." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/conciliador_bancario"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/conciliador.svg?v=3" width="100%" alt="Conciliação bancária: cruza o extrato do banco com o contas a receber. 99% de precisão e zero pagamentos atribuídos ao cliente errado. 80 testes." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/crm_conversacional"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/crm.svg?v=3" width="100%" alt="CRM conversacional: atendimento no WhatsApp com agentes de IA e CRM em Kanban. FastAPI, Next.js, PostgreSQL. CI com banco real." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/finan%C3%A7as"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/erp.svg" width="100%" alt="ERP pessoal: finanças, investimentos, PDV, estoque e nota fiscal. Django, SQLite, Bootstrap. Distribuído também como executável para Windows." /></a></td>
-    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/analise_de_combustiveis"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/combustiveis.svg" width="100%" alt="Análise de combustíveis: dados da ANP num data lake, com previsão de preço. Python, DuckDB, Go, Next.js." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/finan%C3%A7as"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/erp.svg?v=3" width="100%" alt="ERP pessoal: finanças, investimentos, PDV, estoque e nota fiscal. Django, SQLite, Bootstrap. Distribuído também como executável para Windows." /></a></td>
+    <td width="50%"><a href="https://github.com/TassioSales/MeuPortfolio/tree/main/analise_de_combustiveis"><img src="https://raw.githubusercontent.com/TassioSales/TassioSales/main/assets/destaques/combustiveis.svg?v=3" width="100%" alt="Análise de combustíveis: dados da ANP num data lake, com previsão de preço. Python, DuckDB, Go, Next.js." /></a></td>
   </tr>
 </table>
 
