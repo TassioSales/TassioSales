@@ -7,9 +7,10 @@
 </div>
 
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~0179cdc82689f205c7"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="28" alt="Upwork" /></a>
   <a href="https://www.linkedin.com/in/tassio-sales-141826386/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
   <a href="mailto:tassiolucian.ljs@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="E-mail" /></a>
-  <a href="https://drive.google.com/file/d/1H0TI_uiyEgywgleO0LcV580DmFwRguwb/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-0d1117?style=for-the-badge&logo=googledrive&logoColor=30e0ff" height="28" alt="Currículo" /></a>
+  <a href="https://drive.google.com/file/d/1JOJjjO7Ljk6V0f5MXuPBSX4qeMnIipHB/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-0d1117?style=for-the-badge&logo=googledrive&logoColor=30e0ff" height="28" alt="Currículo" /></a>
   <a href="https://github.com/TassioSales/portfolio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-30e0ff?style=for-the-badge&logo=githubpages&logoColor=0d1117" height="28" alt="Portfólio" /></a>
   <a href="https://github.com/TassioSales"><img src="https://komarev.com/ghpvc/?username=TassioSales&style=for-the-badge&color=blue&label=visitas" height="28" alt="Contador de visitas do perfil" /></a>
 </p>
@@ -45,7 +46,7 @@ Na prática? **Eu ensino máquinas a fazer o trabalho chato.** Sou o cara que me
 
 💡 **Bora trocar uma ideia?** Curte automação, web scraping ou transformar dados em produtos de valor? Me chama!
 
-📫 **Contato:** [tassiolucian.ljs@gmail.com](mailto:tassiolucian.ljs@gmail.com) &nbsp;·&nbsp; 📄 **Currículo:** [visualizar](https://drive.google.com/file/d/1H0TI_uiyEgywgleO0LcV580DmFwRguwb/view?usp=sharing) &nbsp;·&nbsp; 😄 **Pronomes:** Ele/Dele
+📫 **Contato:** [tassiolucian.ljs@gmail.com](mailto:tassiolucian.ljs@gmail.com) &nbsp;·&nbsp; 📄 **Currículo:** [visualizar](https://drive.google.com/file/d/1JOJjjO7Ljk6V0f5MXuPBSX4qeMnIipHB/view?usp=sharing) &nbsp;·&nbsp; 😄 **Pronomes:** Ele/Dele
 
 <br>
 
@@ -142,6 +143,8 @@ Contribuições ativas no núcleo de ferramentas globais de segurança defensiva
 
 | Projeto | Área / Escopo | O que foi resolvido | Stack |
 | --- | --- | --- | --- |
+| [Expensify/App](https://github.com/Expensify/App) | React Native / Enterprise FinTech | Resoluções de alta concorrência em TypeScript/React Native, otimização de render e tie-breakers cirúrgicos | TypeScript · React Native · Jest |
+| [Superteam / Solana](https://github.com/TassioSales/solana-validator-order) | Solana / High-Frequency | Framework de medição empírica de ordenação de transações em validadores Solana ($2.500 USDC) | Rust · Solana · TypeScript |
 | [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Segurança / CVE | Template oficial para **CVE-2026-22777** (ComfyUI-Manager CRLF config injection, CVSS 9.8 Critical) com probe e rollback | YAML · Nuclei Engine |
 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Concorrência / Network | Sincronização de requisições RDAP/WHOIS concorrentes e isolamento do pool de runtime JS | Go · Concurrency · Network |
 | [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | Crawler / Memory | Prevenção de travamento em streaming responses no crawler híbrido e eliminação de data races | Go · Headless Chrome |
@@ -352,8 +355,8 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&langs_count=8&theme=radical&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TassioSales&layout=compact&langs_count=8&theme=radical&locale=pt-br" height="170" alt="Linguagens mais usadas" />
   <br>
   <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=radical" height="170" alt="Sequência de contribuições" />
   <br><br>
@@ -516,6 +519,9 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 ## 📱 Contatos e redes sociais
 
 <div align="center">
+  <a href="https://www.upwork.com/freelancers/~0179cdc82689f205c7" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="28" alt="Upwork" />
+  </a>
   <a href="https://www.linkedin.com/in/tassio-sales-141826386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
