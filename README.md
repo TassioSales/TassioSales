@@ -223,11 +223,13 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 #### Todos os projetos
 
 <details open>
-<summary><b>📊 Dados e análise</b> (6)</summary>
+<summary><b>📊 Dados e análise</b> (8)</summary>
 <br>
 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
+| [Gastos Públicos Analytics](https://github.com/TassioSales/gastos-publicos-analytics) | Pipeline analítico ponta a ponta, Star Schema DW em DuckDB e detecção estatística de anomalias (Benford/IQR) em despesas parlamentares | Python · DuckDB · FastAPI · Pandas |
+| [RaptorX Alpha Engine](https://github.com/TassioSales/raptorx-alpha-engine) | Motor quantitativo autônomo de análise de liquidez, pesquisa on-chain de tokens e scoring de risco para DeFi | Python · FastAPI · Web3 · Pydantic |
 | [Análise de Combustíveis](https://github.com/TassioSales/MeuPortfolio/tree/main/analise_de_combustiveis) | Baixa os dados da ANP, processa com Polars, grava em Parquet/DuckDB e serve um dashboard com previsão de preço | Python · DuckDB · Go · Next.js |
 | [Panorama BR](https://github.com/TassioSales/MeuPortfolio/tree/main/panorama_br) | Indicadores econômicos brasileiros com coleta automática do Banco Central e do yfinance | Python · Go · Next.js 14 |
 | [ENEM Insights](https://github.com/TassioSales/MeuPortfolio/tree/main/enem_insights) | Impacto de renda, escola, região e raça nas notas do ENEM, com modelo preditivo | Python · Streamlit · scikit-learn |
@@ -238,11 +240,13 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 </details>
 
 <details>
-<summary><b>🤖 IA aplicada</b> (8)</summary>
+<summary><b>🤖 IA aplicada</b> (10)</summary>
 <br>
 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
+| [MCP Sentinel](https://github.com/TassioSales/mcp-sentinel) | Zero-Trust Security Gateway & Observability Proxy para agentes de IA (MCP) com higienização de PII e proteção de comandos | Python · FastAPI · Pydantic · Rich |
+| [MultiHopper Agent SDK](https://github.com/TassioSales/multihopper-agent-sdk) | Servidor MCP e SDK de agentes autônomos para roteamento privado multi-hop em Solana com Token-2022 | TypeScript · Solana Web3.js · MCP SDK |
 | [Nexus](https://github.com/TassioSales/MeuPortfolio/tree/main/nexus) | Terminal de IA com interface TUI que executa ferramentas de verdade em loop ReAct, com sessões persistentes | Python · TUI |
 | [MemMap](https://github.com/TassioSales/MeuPortfolio/tree/main/memmap) | Editor de notas que extrai entidades com spaCy e monta um grafo de conhecimento interativo em tempo real | Go · spaCy · D3.js · WebSocket |
 | [DocuMind Local](https://github.com/TassioSales/MeuPortfolio/tree/main/documind_local) | Assistente de documentos que roda na própria máquina: upload, extração de texto, busca e análise | Go · Python · Mistral AI |
@@ -271,11 +275,12 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 </details>
 
 <details>
-<summary><b>🧪 Código aberto e ferramentas</b> (2)</summary>
+<summary><b>🧪 Código aberto e ferramentas</b> (3)</summary>
 <br>
 
 | Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
+| [MCP Sentinel](https://github.com/TassioSales/mcp-sentinel) | Gateway de segurança e observabilidade para servidores MCP com validação contra injeção de comandos e sanitização de credenciais | Python · FastAPI · Pytest |
 | [Contribuições no cal.com](https://github.com/TassioSales/MeuPortfolio/tree/main/contribuicoes_open_source) | 16 pull requests: comparação de HMAC sujeita a ataque de tempo, bugs de identidade de participante, serialização de log, formatação de moeda e buscas quadráticas | TypeScript |
 | [edge-audit](https://github.com/TassioSales/MeuPortfolio/tree/main/edge_audit) | Lê a assinatura de funções TypeScript, gera as entradas hostis que o tipo admite, chama a função e reporta quatro tipos de falha | TypeScript · ts-morph · Vitest |
 
