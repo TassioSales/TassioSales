@@ -360,12 +360,11 @@ Seis trabalhos que carregam evidência verificável, não só descrição.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=TassioSales&layout=compact&langs_count=8&theme=radical&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TassioSales&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TassioSales&layout=compact&langs_count=8&theme=radical&locale=pt-br" height="170" alt="Linguagens mais usadas" />
   <br>
   <img src="https://streak-stats.demolab.com?user=TassioSales&locale=pt-br&mode=daily&theme=radical" height="170" alt="Sequência de contribuições" />
   <br><br>
-  
 </div>
 
 <br>
