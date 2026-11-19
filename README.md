@@ -151,8 +151,9 @@ Contribuições ativas no núcleo de ferramentas globais de segurança defensiva
 | [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) | Recon / Rate Limit | Interrupção imediata de requests não autenticados e correção de paginação de fontes passivas | Go · REST APIs |
 | [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) | DNS / Resolution | Preservação de status `NXDOMAIN` em consultas combinadas com dangling CNAMEs | Go · DNS Protocol |
 | [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) | CDN / Parsing | Suporte completo a sufixos públicos aninhados (Fastly, AWS ELB) no analisador de CDN | Go · CIDR · Network |
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Desktop Engine / UI | Suporte a window click-through nativo Win32 (`WS_EX_TRANSPARENT`) e resolução dinâmica multi-display no runner Rust | Rust · GPUI · Win32 |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI Wearable / Privacy | Verificação estrita de privacidade em logs INFO em workers assíncronos e resolução portátil de executáveis no CI | Python · AsyncIO · Pytest |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Desktop Engine / UI | Suporte a window click-through Win32, resolução multi-display e correção de text overflow na tela de export (#4274) | Rust · GPUI · Win32 |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI Wearable / CI & Privacy | Recalibração do orçamento de regressão dos shards do CI (#25735), privacidade de logs INFO e portabilidade NixOS | Python · AsyncIO · Pytest · Actions |
+| [TassioSales/radar-pncp](https://github.com/TassioSales/radar-pncp) | GovTech / Data Intelligence | Plataforma multi-setor de monitoramento de editais e dispensas públicas (> R$ 2.1 bi) com alertas no Telegram | Python · FastAPI · Tailwind · Telegram |
 | [tryabby/abby](https://github.com/tryabby/abby) | Frontend SDK | Implementação do pacote oficial `@tryabby/vue` com reatividade composable e testes unitários | Vue 3 · TypeScript · Vitest |
 | [calcom/cal.com](https://github.com/calcom/cal.com) | Enterprise Scheduling | Mitigação de timing attacks em HMAC e otimização de buscas em monorepo com 48k+ estrelas | TypeScript · Monorepo |
 
